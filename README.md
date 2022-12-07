@@ -30,8 +30,8 @@ Android Studio, GitHub, Visual-Studio-Code, XCode
 <br/>
 
 ## Github stats:
-
-![Mehul's GitHub stats at BYPT]([https://github.com/ketul-BYPT/github-readme-stats](https://github.com/MehulRajBYPTech/github-readme-stats))
+  
+![Ketul's GitHub stats at BYPT](https://github.com/MehulRajBYPTech/github-readme-stats)
 
 ## Most language used:
 
