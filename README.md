@@ -37,3 +37,8 @@ Android Studio, GitHub, Visual-Studio-Code, XCode
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehulRajBYPTech)](https://github.com/MehulRajBYPTech/github-readme-stats)
 
+## Contribution Graph:
+  
+[![Mehul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MehulRajBYPTech&bg_color=004d65&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
