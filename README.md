@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/53267243/206183595-6d20943d-a482-4552-9384-f1c0c7407bf5.jpg" width="400" height="250">
-  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150" position="absolute">
+  <img src="https://user-images.githubusercontent.com/53267243/206183595-6d20943d-a482-4552-9384-f1c0c7407bf5.jpg" width="400" height="250" >
+  <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150" >
   </p>
 
 ### Hi there👋
